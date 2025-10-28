@@ -21,7 +21,7 @@
     }
 
   ]
-"start_url": ".", // Lascia questo a '.' o '/' per ora, lo correggeremo dopo il build!
+"start_url": "/Rad-S-A-C-V4/", // Lascia questo a '.' o '/' per ora, lo correggeremo dopo il build!
 "theme_color": "#06b6d4",
 "background_color": "#0F172A"
 }
